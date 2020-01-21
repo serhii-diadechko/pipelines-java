@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/serginionick/Pipeline-Java/_apis/build/status/serhii-diadechko.pipelines-java?branchName=master)](https://dev.azure.com/serginionick/Pipeline-Java/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
